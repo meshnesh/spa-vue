@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+    <app-nav></app-nav>
     <h1>{{ msg }}</h1>
   </div>
 </template>
