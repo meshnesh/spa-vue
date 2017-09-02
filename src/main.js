@@ -5,9 +5,11 @@ import App from './App'
 import router from './router'
 import './assets/css/app.css'
 import Nav from './components/Nav.vue'
+import Canvas from './components/Canvas.vue'
 
 Vue.config.productionTip = false
 Vue.component('app-nav', Nav)
+Vue.component('app-canvas', Canvas)
 /* eslint-disable no-new */
 
 new Vue({
