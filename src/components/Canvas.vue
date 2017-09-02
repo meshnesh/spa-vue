@@ -19,32 +19,117 @@
             </div>
 
             <hr>
-            <ul class="social-media after-post">
+            <ul class=" after-post center">
               <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
               <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
               <li><a href=""><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
             </ul>
+<!-- SPLIT BLOG POST BODY -->
+            <div class="posts-body">
+              <div>
+                <div class="card mb-3 rounded-0 border-0">
+                  <img class="card-img-top rounded" src="../assets/first-post.jpg" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="category">Adventure</h5>
+                    <h4 class="blog-post-title card-title">snap stories life</h4>
+                    <p class="blog-post-meta">0 comments - January 1, 2014</p>
+                    <hr class="header-rule">
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <button type="button" class="btn btn-primary">continue reading</button>
+                  </div>
+                </div>
 
-            <h2>Heading</h2>
-            <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
-            <h3>Sub-heading</h3>
-            <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-            <pre><code>Example code block</code></pre>
-            <p>Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
-            <h3>Sub-heading</h3>
-            <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-            <ul>
-              <li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
-              <li>Donec id elit non mi porta gravida at eget metus.</li>
-              <li>Nulla vitae elit libero, a pharetra augue.</li>
-            </ul>
-            <p>Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.</p>
-            <ol>
-              <li>Vestibulum id ligula porta felis euismod semper.</li>
-              <li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
-              <li>Maecenas sed diam eget risus varius blandit sit amet non magna.</li>
-            </ol>
-            <p>Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.</p>
+                <hr>
+                <ul class=" after-post center">
+                  <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                  <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                  <li><a href=""><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+                </ul>
+              </div>
+              <div>
+                <div class="card mb-3 rounded-0 border-0">
+                  <img class="card-img-top rounded" src="../assets/first-post.jpg" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="category">Adventure</h5>
+                    <h4 class="blog-post-title card-title">snap stories life</h4>
+                    <p class="blog-post-meta">0 comments - January 1, 2014</p>
+                    <hr class="header-rule">
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <button type="button" class="btn btn-primary">continue reading</button>
+                  </div>
+                </div>
+
+                <hr>
+                <ul class=" after-post center">
+                  <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                  <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                  <li><a href=""><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+                </ul>
+              </div>
+              <div>
+                <div class="card mb-3 rounded-0 border-0">
+                  <img class="card-img-top rounded" src="../assets/first-post.jpg" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="category">Adventure</h5>
+                    <h4 class="blog-post-title card-title">snap stories life</h4>
+                    <p class="blog-post-meta">0 comments - January 1, 2014</p>
+                    <hr class="header-rule">
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <button type="button" class="btn btn-primary">continue reading</button>
+                  </div>
+                </div>
+
+                <hr>
+                <ul class=" after-post center">
+                  <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                  <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                  <li><a href=""><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+                </ul>
+              </div>
+              <div>
+                <div class="card mb-3 rounded-0 border-0">
+                  <img class="card-img-top rounded" src="../assets/first-post.jpg" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="category">Adventure</h5>
+                    <h4 class="blog-post-title card-title">snap stories life</h4>
+                    <p class="blog-post-meta">0 comments - January 1, 2014</p>
+                    <hr class="header-rule">
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <button type="button" class="btn btn-primary">continue reading</button>
+                  </div>
+                </div>
+
+                <hr>
+                <ul class=" after-post center">
+                  <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                  <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                  <li><a href=""><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+                </ul>
+              </div>
+              <div>
+                <div class="card mb-3 rounded-0 border-0">
+                  <img class="card-img-top rounded" src="../assets/first-post.jpg" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="category">Adventure</h5>
+                    <h4 class="blog-post-title card-title">snap stories life</h4>
+                    <p class="blog-post-meta">0 comments - January 1, 2014</p>
+                    <hr class="header-rule">
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <button type="button" class="btn btn-primary">continue reading</button>
+                  </div>
+                </div>
+
+                <hr>
+                <ul class=" after-post center">
+                  <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                  <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                  <li><a href=""><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+                </ul>
+              </div>
+
+            </div>
+            <!-- END OF BLOG GROUP -->
+
           </div><!-- /.blog-post -->
 
           <nav class="blog-pagination">
@@ -75,38 +160,79 @@
               </div>
             </div>
           </div>
-          <div class="sidebar-module">
-            <h4>Archives</h4>
-            <ol class="list-unstyled">
-              <li><a href="#">March 2014</a></li>
-              <li><a href="#">February 2014</a></li>
-              <li><a href="#">January 2014</a></li>
-              <li><a href="#">December 2013</a></li>
-              <li><a href="#">November 2013</a></li>
-              <li><a href="#">October 2013</a></li>
-              <li><a href="#">September 2013</a></li>
-              <li><a href="#">August 2013</a></li>
-              <li><a href="#">July 2013</a></li>
-              <li><a href="#">June 2013</a></li>
-              <li><a href="#">May 2013</a></li>
-              <li><a href="#">April 2013</a></li>
-            </ol>
+          <!-- newsletter -->
+          <div class="sidebar-module newsletter">
+            <form>
+              <div class="form-group">
+                <label for="exampleInputEmail1">Subscribe to my Newsletter</label>
+                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email Your address">
+                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+              </div>
+              <button type="submit" class="btn btn-dark btn-block">Submit</button>
+            </form>
           </div>
-          <!-- <div class="sidebar-module">
-            <h4>Elsewhere</h4>
-            <ol class="list-unstyled">
-              <li><a href="#">GitHub</a></li>
-              <li><a href="#">Twitter</a></li>
-              <li><a href="#">Facebook</a></li>
-            </ol>
-          </div> -->
+          <!-- end of newsletter -->
+          <div class="sidebar-module popuplar-posts">
+            <div class="line-across">
+              <h4><span>popular posts</span></h4>
+            </div>
+            <!-- POPULAR POSTS SECTION -->
+                  <a href="#">
+                    <div class="nested">
+                      <div class="">
+                        <img class="img-fluid" src="../assets/compass.jpg" alt="">
+                      </div>
+                      <div class="">
+                        <h5>Summer Inspirations</h5>
+                        <p>Oct 1 2016</p>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="#">
+                    <div class="nested">
+                      <div class="">
+                        <img class="img-fluid" src="../assets/compass.jpg" alt="">
+                      </div>
+                      <div class="">
+                        <h5>Summer Adventures</h5>
+                        <p>Oct 1 2016</p>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="#">
+                    <div class="nested">
+                      <div class="">
+                        <img class="img-fluid" src="../assets/compass.jpg" alt="">
+                      </div>
+                      <div class="">
+                        <h5>Strange Things</h5>
+                        <p>Oct 1 2016</p>
+                      </div>
+                    </div>
+                  </a>
+              <!-- END OF POPULAR POSTS SECTION -->
+          </div>
+          <!-- category -->
+          <div class="sidebar-module popuplar-posts">
+            <div class="line-across">
+              <h4><span>categories</span></h4>
+            </div>
+            <select class="custom-select form-control">
+              <option selected>Adventure</option>
+              <option value="1">Sky Diving</option>
+              <option value="2">Road Trip</option>
+              <option value="3">Hiking</option>
+            </select>
+          </div>
         </div><!-- /.blog-sidebar -->
 
       </div><!-- /.row -->
       <div class="mastfoot">
             <div class="inner">
-              <p class="float-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2017 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+              <p class="float-right">
+                <a href="#">Back to top</a>
+              </p>
+              <p>&copy; 2017 Company, Inc. </p>
             </div>
           </div>
 
