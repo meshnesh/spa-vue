@@ -30,6 +30,9 @@ ol,ul{
   .social-media > li{
     padding: 1em;
   }
+  .after-post{
+    text-align: center;
+  }
   .blog-post-title{
     text-transform: uppercase;
     font-weight: 900;
