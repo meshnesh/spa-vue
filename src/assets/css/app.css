@@ -1,6 +1,13 @@
 ol,ul{
   list-style-type: none;
 }
+.header-rule{
+  width: 16%;
+}
+.category{
+  margin-bottom: 1em;
+  margin-top: 2em;
+}
 #app {
     font-family: 'Avenir', Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -23,7 +30,21 @@ ol,ul{
   .social-media > li{
     padding: 1em;
   }
-/* ABOUT SECTION */
+  .blog-post-title{
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 32px;
+  }
+  .blog-post-mate{
+    font-size: 16px;
+  }
+  .card-text{
+    margin-bottom: 2rem;
+  }
+  .btn-lg{
+    text-transform: uppercase;
+  }
+/* line across text*/
 
 .line-across {
   text-align: center;
@@ -47,3 +68,5 @@ ol,ul{
   top: 50%;
   z-index: -1;
 }
+
+/* end line across text*/

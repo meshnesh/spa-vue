@@ -3,28 +3,23 @@
 
       <div class="row">
 
-        <div class="col-sm-8 blog-main">
+        <div class="col-sm-8 blog-main" style="padding-top: 24px;">
 
           <div class="blog-post">
             <div class="card mb-3 rounded-0 border-0">
               <img class="card-img-top rounded" src="../assets/sky.jpg" alt="Card image cap">
               <div class="card-body">
-                 <h3>Adventure</h3>
-                <h4 class="blog-post-title card-title">FALLING</h4>
-                <p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
+                <h5 class="category">Adventure</h5>
+                <h4 class="blog-post-title card-title">snap stories life</h4>
+                <p class="blog-post-meta">0 comments - January 1, 2014</p>
+                <hr class="header-rule">
                 <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                <button type="button" class="btn btn-primary btn-lg">continue reading</button>
               </div>
             </div>
 
-            <hr/>
-            <!-- <p>This blog post shows a few different types of content that's supported and styled with Bootstrap. Basic typography, images, and code are all supported.</p>
             <hr>
-            <p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
-            <blockquote>
-              <p>Curabitur blandit tempus porttitor. <strong>Nullam quis risus eget urna mollis</strong> ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            </blockquote>
-            <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p> -->
+
             <h2>Heading</h2>
             <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
             <h3>Sub-heading</h3>
@@ -57,7 +52,7 @@
         <div class="col-sm-4 offset-sm-2 blog-sidebar">
           <div class="sidebar-module sidebar-module-inset">
             <div class="line-across">
-              <h4><span>About</span></h4>
+              <h4><span>ABOUT ME</span></h4>
             </div>
 
             <div class="card border-0" style="width: auto;">
