@@ -1,3 +1,6 @@
+ol,ul{
+  list-style-type: none;
+}
 #app {
     font-family: 'Avenir', Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -13,3 +16,34 @@
   height: 80vh;
 
   }
+  .social-media{
+    width: 100%;
+    display: inline-flex;
+  }
+  .social-media > li{
+    padding: 1em;
+  }
+/* ABOUT SECTION */
+
+.line-across {
+  text-align: center;
+  width: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+.line-across span {
+  position: relative;
+  display: inline-block;
+  padding: 10px;
+  background-color: #fff;
+}
+.line-across span:before {
+  content: '';
+  position: absolute;
+  width: 400%;
+  height: 2px;
+  background-color: #000;
+  left: -148%;
+  top: 50%;
+  z-index: -1;
+}
