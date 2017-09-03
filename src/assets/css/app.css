@@ -19,6 +19,7 @@ ol,ul{
     color: #2c3e50;
     margin-top: 56px;
 }
+
 .jumbotron{
   background-image: url('../main.jpg');
   background-size: cover;
@@ -120,3 +121,24 @@ ol,ul{
 .mastfoot{
   margin: 1em;
 }
+
+@media (max-width: 780px){
+  .col-sm-4 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .nested > div{
+    margin: 0.5em;
+  }
+}
+@media only screen and (max-width: 750px) {
+  .posts-body{
+    display: grid;
+    grid-template-columns:repeat(1, 1fr);
+    grid-gap: 1em;
+    /* grid-auto-rows: minmax(100px , auto); */
+  }
+}
+

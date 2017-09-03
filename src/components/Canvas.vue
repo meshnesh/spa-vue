@@ -48,11 +48,11 @@
               </div>
               <div>
                 <div class="card mb-3 rounded-0 border-0">
-                  <img class="card-img-top rounded" src="../assets/first-post.jpg" alt="Card image cap">
+                  <img class="card-img-top rounded" src="../assets/children.jpg" alt="Card image cap">
                   <div class="card-body">
-                    <h5 class="category">Adventure</h5>
-                    <h4 class="blog-post-title card-title">snap stories life</h4>
-                    <p class="blog-post-meta">0 comments - January 1, 2014</p>
+                    <h5 class="category">Lifestyle</h5>
+                    <h4 class="blog-post-title card-title">my buddies</h4>
+                    <p class="blog-post-meta">0 comments - March 15, 2014</p>
                     <hr class="header-rule">
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     <button type="button" class="btn btn-primary">continue reading</button>
@@ -188,10 +188,11 @@
                       </div>
                     </div>
                   </a>
+                  <hr>
                   <a href="#">
                     <div class="nested">
                       <div class="">
-                        <img class="img-fluid" src="../assets/compass.jpg" alt="">
+                        <img class="img-fluid" src="../assets/summer.jpg" alt="">
                       </div>
                       <div class="">
                         <h5>Summer Adventures</h5>
@@ -199,10 +200,11 @@
                       </div>
                     </div>
                   </a>
+                  <hr>
                   <a href="#">
                     <div class="nested">
                       <div class="">
-                        <img class="img-fluid" src="../assets/compass.jpg" alt="">
+                        <img class="img-fluid" src="../assets/strange.jpg" alt="">
                       </div>
                       <div class="">
                         <h5>Strange Things</h5>
@@ -235,8 +237,6 @@
               <p>&copy; 2017 Company, Inc. </p>
             </div>
           </div>
-
-
     </div><!-- /.container -->
 
 </template>
