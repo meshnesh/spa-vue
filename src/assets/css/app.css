@@ -1,5 +1,10 @@
+a{
+  color: #fcb048;
+
+}
 a:hover{
   text-decoration: none;
+  color: #856404;
 }
 ol,ul{
   list-style-type: none;
@@ -10,6 +15,7 @@ ol,ul{
 .category{
   margin-bottom: 1em;
   margin-top: 2em;
+  color: #fcb048;
 }
 #app {
     font-family: 'Avenir', Helvetica, Arial, sans-serif;
@@ -26,6 +32,44 @@ ol,ul{
   background-position: center;
   height: 80vh;
 
+  }
+  .btn-primary{
+    background-color: #856404;
+    border: #856404;
+  }
+  .btn-primary:hover{
+    background-color: #fcb048;
+    border: #fcb048;
+  }
+  .btn-outline-primary {
+    color: #fcb048;
+    background-color: transparent;
+    background-image: none;
+    border-color: #fcb048;
+}
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #fcb048;
+  background-image: none;
+  border-color: #fcb048;
+}
+.btn-outline-success {
+  color: #856404;
+  background-color: transparent;
+  background-image: none;
+  border-color: #856404;
+}
+.btn-outline-success:hover {
+  color: #fff;
+  background-color: #856404;
+  background-image: none;
+  border-color: #856404;
+}
+  .about-intro {
+    top: 32%;
+    position: absolute;
+    background: rgba(221, 221, 221, 0.4);
+    padding: 0.8em;
   }
   .social-media{
     width: 100%;
@@ -44,7 +88,7 @@ ol,ul{
   .blog-post-title{
     text-transform: uppercase;
     font-weight: 900;
-    font-size: 32px;
+    font-size: 30px;
   }
   .blog-post-mate{
     font-size: 16px;
@@ -121,7 +165,12 @@ ol,ul{
 .mastfoot{
   margin: 1em;
 }
+/* MARKDOWN PREVIEW */
+textarea {
+  width: 100%;
+}
 
+/* END OF MARKDOWN PREVIEW */
 @media (max-width: 780px){
   .col-sm-4 {
     -ms-flex: 0 0 100%;

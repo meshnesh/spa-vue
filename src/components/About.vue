@@ -3,10 +3,13 @@
   <app-nav></app-nav>
       <!-- Main page for the header -->
     <div class="jumbotron rounded-0">
-      <div class="container">
-        <h1 class="display-3">MY ADVENTURE</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+      <div class="container about-intro rounded">
+        <h1 class="display-3">UNUSUAL WEEKENDS</h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae et laborum hic est eum in voluptas! Blanditiis dignissimos earum molestiae officia numquam, rem excepturi quo laudantium. Doloremque nesciunt nemo deserunt!
+        </p>
       </div>
+
     </div>
    <app-canvas></app-canvas>
 </div>

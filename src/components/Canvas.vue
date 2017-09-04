@@ -9,7 +9,9 @@
             <div class="card mb-3 rounded-0 border-0">
               <img class="card-img-top rounded" src="../assets/sky.jpg" alt="Card image cap">
               <div class="card-body">
-                <h5 class="category">Adventure</h5>
+                <h5 class="category">
+                  <i>First time Experience</i>
+                </h5>
                 <h4 class="blog-post-title card-title">snap stories life</h4>
                 <p class="blog-post-meta">0 comments - January 1, 2014</p>
                 <hr class="header-rule">
@@ -30,7 +32,9 @@
                 <div class="card mb-3 rounded-0 border-0">
                   <img class="card-img-top rounded" src="../assets/first-post.jpg" alt="Card image cap">
                   <div class="card-body">
-                    <h5 class="category">Adventure</h5>
+                    <h5 class="category">
+                      <i>Adventure</i>
+                    </h5>
                     <h4 class="blog-post-title card-title">snap stories life</h4>
                     <p class="blog-post-meta">0 comments - January 1, 2014</p>
                     <hr class="header-rule">
@@ -50,7 +54,9 @@
                 <div class="card mb-3 rounded-0 border-0">
                   <img class="card-img-top rounded" src="../assets/children.jpg" alt="Card image cap">
                   <div class="card-body">
-                    <h5 class="category">Lifestyle</h5>
+                    <h5 class="category">
+                     <i> Lifestyle</i>
+                    </h5>
                     <h4 class="blog-post-title card-title">my buddies</h4>
                     <p class="blog-post-meta">0 comments - March 15, 2014</p>
                     <hr class="header-rule">
@@ -66,11 +72,14 @@
                   <li><a href=""><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
                 </ul>
               </div>
+
               <div>
                 <div class="card mb-3 rounded-0 border-0">
-                  <img class="card-img-top rounded" src="../assets/first-post.jpg" alt="Card image cap">
+                  <img class="card-img-top rounded" src="../assets/second-post.jpg" alt="Card image cap">
                   <div class="card-body">
-                    <h5 class="category">Adventure</h5>
+                    <h5 class="category">
+                      <i> Adventure</i>
+                    </h5>
                     <h4 class="blog-post-title card-title">snap stories life</h4>
                     <p class="blog-post-meta">0 comments - January 1, 2014</p>
                     <hr class="header-rule">
@@ -88,30 +97,12 @@
               </div>
               <div>
                 <div class="card mb-3 rounded-0 border-0">
-                  <img class="card-img-top rounded" src="../assets/first-post.jpg" alt="Card image cap">
+                  <img class="card-img-top rounded" src="../assets/second-post.jpg" alt="Card image cap">
                   <div class="card-body">
-                    <h5 class="category">Adventure</h5>
-                    <h4 class="blog-post-title card-title">snap stories life</h4>
-                    <p class="blog-post-meta">0 comments - January 1, 2014</p>
-                    <hr class="header-rule">
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <button type="button" class="btn btn-primary">continue reading</button>
-                  </div>
-                </div>
-
-                <hr>
-                <ul class=" after-post center">
-                  <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                  <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                  <li><a href=""><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
-                </ul>
-              </div>
-              <div>
-                <div class="card mb-3 rounded-0 border-0">
-                  <img class="card-img-top rounded" src="../assets/first-post.jpg" alt="Card image cap">
-                  <div class="card-body">
-                    <h5 class="category">Adventure</h5>
-                    <h4 class="blog-post-title card-title">snap stories life</h4>
+                    <h5 class="category">
+                     <i> First time Experience</i>
+                    </h5>
+                    <h4 class="blog-post-title card-title">Africa i'm coming</h4>
                     <p class="blog-post-meta">0 comments - January 1, 2014</p>
                     <hr class="header-rule">
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -221,7 +212,7 @@
             </div>
             <select class="custom-select form-control">
               <option selected>Adventure</option>
-              <option value="1">Sky Diving</option>
+              <option value="1">First time Experience</option>
               <option value="2">Road Trip</option>
               <option value="3">Hiking</option>
             </select>
